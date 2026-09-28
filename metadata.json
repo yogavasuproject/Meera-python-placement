@@ -1,0 +1,6 @@
+{
+  "name": "PyPlace - Python Placement Training & PPT Classroom Suite",
+  "description": "Comprehensive placement training package for engineering campus recruitment: 70+ slide classroom PPT generator (.pptx export), 100 MCQs, 50 interview Q&As, 50 coding problems, output prediction, debugging bank, and full mock assessment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
